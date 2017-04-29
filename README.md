@@ -23,13 +23,13 @@ Example Playbook
 
     - hosts: servers
       roles:
-         - { role: loranger.debian-git }
+         - { role: cowops.debian-git }
 
 Tasks
 -----
 
   - Install [git](http://git-scm.com/)
-  
+
 
 License
 -------
